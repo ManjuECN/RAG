@@ -1,0 +1,12 @@
+pypdf
+torch
+transformers
+sentence-transformers
+llama-index
+llama-index-llms-llama-cpp
+llama-index-embeddings-huggingface
+docx2txt
+langchain_community
+fastapi
+python-multipart
+uvicorn

@@ -1,0 +1,14 @@
+
+langchain
+# !pip -q install bitsandbytes accelerate xformers einops
+# !pip -q install datasets loralib sentencepiece
+pypdf
+sentence_transformers
+chromadb
+openai
+tiktoken
+langchain-community
+docx2txt
+ipywidgets
+python-dotenv
+
